@@ -1,4 +1,4 @@
-package comp2522;
+package org.comp2522;
 
 public class FizzBuzzProcessor {
     public static void main(String[] args) {
